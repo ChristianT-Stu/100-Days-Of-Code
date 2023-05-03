@@ -8,5 +8,5 @@ Example Output
 9
 '''
 
-nameLength = (input("What is Your Name?"))
+nameLength = (input("What is Your Name? "))
 print(len(nameLength))
