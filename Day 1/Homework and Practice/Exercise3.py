@@ -4,9 +4,9 @@
 
 '''
 Example Output
-
-Angela = 6
-
+"What is your Name"Christian
+9
 '''
 
-def nameLength
+nameLength = (input("What is Your Name?"))
+print(len(nameLength))
