@@ -17,7 +17,7 @@ converted_tip_perc = float(tip_perc) / 100
 converted_person_split = float(person_split)
 
 added_value = (converted_bill / converted_person_split) * converted_tip_perc
-
-split_bill = round(((converted_bill / converted_person_split) + added_value), 2)
+total_value = ((converted_bill / converted_person_split) + added_value)
+split_bill = "{:.2f}".format(total_value)
 
 print(f'Each person should pay: ${split_bill}')
