@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0674e47b-62bd-4fe9-b3af-9e0420084ee6" name="Changes" comment="" />
+    <list default="true" id="0674e47b-62bd-4fe9-b3af-9e0420084ee6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day 4/Homework and Practice/bankerRoulette.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 4/Homework and Practice/headsOrTails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 4/Homework and Practice/treasureMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 4/rockPaperSissorsGame.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
