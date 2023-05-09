@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0674e47b-62bd-4fe9-b3af-9e0420084ee6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 5/Homework and Practice/addingEvenNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Homework and Practice/averageHeight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Homework and Practice/highScore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/Homework and Practice/jobInterview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/passwordGenerator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/rockPaperSissorsGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/rockPaperSissorsGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Homework and Practice/addingEvenNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Homework and Practice/addingEvenNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Homework and Practice/averageHeight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Homework and Practice/averageHeight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Homework and Practice/highScore.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Homework and Practice/highScore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Homework and Practice/jobInterview.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Homework and Practice/jobInterview.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/passwordGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/passwordGenerator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
