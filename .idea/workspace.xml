@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0674e47b-62bd-4fe9-b3af-9e0420084ee6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Function Parameters and Caesar Cipher/caesarCipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function Parameters and Caesar Cipher/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function Parameters and Caesar Cipher/functionsWithInputs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function Parameters and Caesar Cipher/multipleInputFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function Parameters and Caesar Cipher/paintAreaCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function Parameters and Caesar Cipher/primeNumberChecker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6/hangmanGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/hangmanGame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6/hangmanWordList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/hangmanWordList.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
