@@ -15,6 +15,7 @@ for letter in chosen_word:
 end_of_game = False
 
 while not end_of_game:
+    print(f"Your word is {len(chosen_word)} letters long.")
     guess = input("Guess a letter: ").lower()
 
     if guess in display:
@@ -25,6 +26,7 @@ while not end_of_game:
         lives -= 1
         if lives == 0:
             end_of_game = True
+            print(f"Your word was {chosen_word}")
             print("You Lose. Game Over")
 
     #Check guessed letter
